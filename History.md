@@ -1,3 +1,11 @@
+0.9.16 / 2013-09-20 (Patched)
+=================
+  * Workaround : client not handshaken error
+
+0.9.16 / 2013-09-20 (Patched)
+==================
+  * Improve the performance of subscribe/unsubscribe/message event logic. (cherry picked from commit 24e406cebccf95c9f69d9a630098ab3361a17c73)
+  * Remove duplicates clearHandlers call. (cherry picked from commit 24e406cebccf95c9f69d9a630098ab3361a17c73)
 
 0.9.16 / 2013-06-06
 ===================

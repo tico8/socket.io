@@ -1,3 +1,7 @@
+0.9.16 / 2013-10-08 (Patched)
+=================
+  * Memory leak : If a lot of connections continue being disconnected, a memory will leak.
+
 0.9.16 / 2013-09-20 (Patched)
 =================
   * Workaround : client not handshaken error
